@@ -1,7 +1,7 @@
 # CODETECH-Task1
 # Profile
 
-**Name**: Vuppala Vaishnavi 
+**Name**: VUPPALA VAISHNAVI 
 
 **Company**: CODTECH IT SOLUTIONS
 
